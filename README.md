@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Durga-99
 - 👀 I’m interested in learning new professional oriented skills.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently working as a Java Developer
 - 💞️ I’m looking to collaborate on development projects.
 - 📫 How to reach me via durgasujatha9299@gmail.com
 
